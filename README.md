@@ -3,7 +3,11 @@
 
 ## About me:
 <div>
-  <i>In Progress</i>
+  📍 Salvador/BA - Brazil
+<br>
+  🎓 Graduating in Computer Engineering (1/10)
+<br>
+  💻 Studying Web Developer at Trybe
 </div>
 
 <hr>
