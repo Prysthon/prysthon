@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Tiago Prysthon</h1>
 <img align="center" alt="CodingMario" width="100%" src="https://i.imgur.com/1ZvVkDc.gif" />
 
 ## About me:
@@ -8,17 +8,11 @@
   🎓 Graduating in Computer Engineering (1/10)
 <br>
   💻 Studying Web Developer at Trybe
+<br>
+  🚀 FullStack Developer (<i>Coming soon</i>)
 </div>
 
 <hr>
-
-## Statistics:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prysthon&show_icons=true&count_private=true&hide_border=true&title_color=204d90&icon_color=204d90&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prysthon&layout=compact&hide_border=true&title_color=204d90&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
-
-<hr>  
 
 ## Languages/Frameworks:
 <table align="center">
@@ -62,6 +56,14 @@
 </table>
   
 <hr>
+
+## Statistics:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prysthon&show_icons=true&count_private=true&hide_border=true&title_color=204d90&icon_color=204d90&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prysthon&layout=compact&hide_border=true&title_color=204d90&text_color=c9d1d9&bg_color=0d1117"/>
+</div>
+
+<hr>  
   
 ## Connect with me:
 <div align="center">
