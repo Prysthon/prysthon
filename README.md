@@ -1,13 +1,10 @@
 <div align="center">
   <h1>Hi there 👋</h1>
+  <img align="center" alt="CodingMario" width="100%" src="https://i.imgur.com/1ZvVkDc.gif" />
 </div>
 
 <hr>
-  <img align="center" alt="CodingMario" width="100%" src="https://i.imgur.com/1ZvVkDc.gif" />
-<hr>
-
-<hr>
-  <h3> About me </h3>
+  <h3>About me:</h3>
 <hr>
 
 <div align="center">
@@ -28,5 +25,7 @@
   
 <hr>
   <div align="center"><br>
+    <a href="mailto:tiagoprysthon14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/tiagoprysthon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/tiagoprysthon/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  </div>
