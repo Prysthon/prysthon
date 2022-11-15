@@ -2,19 +2,21 @@
 <img align="center" alt="CodingMario" width="100%" src="https://i.imgur.com/1ZvVkDc.gif" />
 
 ## About me:
+<div>
+  <i>In Progress</i>
+</div>
 
 <hr>
 
 ## Statistics:
 <div align="center">
-  <a href="https://github.com/prysthon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prysthon&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prysthon&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
 <hr>  
 
-## Languages:
+## Languages/Frameworks:
 <table align="center">
   <tr>
     <th>Front-End</th>
@@ -40,8 +42,8 @@
     </td>
 <!--     TESTING -->
     <td>
-      <img align="center" alt="Juliano-Jest" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-      <img align="center" alt="Juliano-RTL" height="30" width="42" src="https://testing-library.com/img/octopus-128x128.png" />
+      <img align="center" alt="Jest" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+      <img align="center" alt="RTL" height="30" width="42" src="https://testing-library.com/img/octopus-128x128.png" />
     </td>
 <!--     DEVOPS -->
     <td>
@@ -50,7 +52,7 @@
       <br>
       <br>
       <img align="center" alt="Github" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img align="center" alt="Docker" height="30" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+      <img align="center" alt="Docker" height="35" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
     </td>
   </tr>
 </table>
