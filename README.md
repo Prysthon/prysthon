@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Tiago Prysthon</h1>
+<h1 align="center"> 👋 Hey there, I'm Tiago Prysthon</h1>
 <img align="center" alt="CodingMario" width="100%" src="https://i.imgur.com/1ZvVkDc.gif" />
 
 ## About me:
