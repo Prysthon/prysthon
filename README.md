@@ -9,7 +9,7 @@
 <br>
   💻 Studying Web Developer at Trybe
 <br>
-  🚀 FullStack Developer (<i>Coming soon</i>)
+  🚀 FullStack Web Developer (<i>Coming soon</i>)
 </div>
 
 <hr>
