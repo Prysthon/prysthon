@@ -7,7 +7,7 @@
 <br>
   🎓 Graduating in Computer Engineering (2/10)
 <br>
-  💻 Studying C and c++
+  💻 Studying C and C++
 <br>
   🚀 FullStack Web Developer (<i>Coming soon</i>)
 </div>
