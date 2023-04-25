@@ -9,7 +9,7 @@
 <br>
   💻 Studying C and C++
 <br>
-  🚀 FullStack Web Developer (<i>Coming soon</i>)
+  🚀 FullStack Web Developer
 </div>
 
 <hr>
