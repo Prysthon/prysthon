@@ -5,9 +5,9 @@
 <div>
   📍 Salvador/BA - Brazil
 <br>
-  🎓 Graduating in Computer Engineering (2/10)
+  🎓 Graduating in Computer Engineering (3/10)
 <br>
-  💻 Studying C and C++
+  💻 Studying C and C++ and Java
 <br>
   🚀 FullStack Web Developer
 </div>
