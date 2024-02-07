@@ -26,6 +26,7 @@
   
   <tr>
     <!--     Languages -->
+    <!--     https://github.com/devicons/devicon/tree/master -->
     <td>
       <img align="center" alt="JavaScript" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="TypeScript" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
