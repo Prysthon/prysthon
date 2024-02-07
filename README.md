@@ -5,7 +5,7 @@
 <div>
   📍 Salvador/BA - Brazil
 <br>
-  🎓 Graduating in Computer Engineering (3/10)
+  🎓 Graduating in Computer Engineering (5/10)
 <br>
   💻 Studying C and C++ and Java
 <br>
@@ -28,10 +28,10 @@
     <!--     Languages -->
     <td>
       <img align="center" alt="JavaScript" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="TypeScript" height="30" width="42" src="https://camo.githubusercontent.com/aa8b3e6b6fc55ea158e132e1c33ba6aa7fe49706a4e4bd64701af1cf89f514b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667">
+      <img align="center" alt="TypeScript" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <br>
       <br>
-      <img align="center" alt="Python" height="42" width="42" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+      <img align="center" alt="Python" height="42" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </td>
 <!--     FRONTEND -->
     <td>
