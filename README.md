@@ -58,8 +58,8 @@
       <img align="center" alt="RTL" height="30" width="42" src="https://testing-library.com/img/octopus-128x128.png" />
       <br>
       <br>
-      <img align="center" alt="Mocha" height="30" width="42" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667" />
-      <img align="center" alt="Chai" height="30" width="42" src="https://camo.githubusercontent.com/8867389011ff9574f6a338e76bde061fd4dee5663ef70a90660c8d1e53f681b5/68747470733a2f2f7777772e636861696a732e636f6d2f696d672f636861692d6c6f676f2d736d616c6c2e706e67" />
+      <img align="center" alt="Mocha" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" />
+      <img align="center" alt="Chai" height="30" width="42" src="https://avatars.githubusercontent.com/u/1515293?s=200&v=4" />
 <!--       <img align="center" alt="Sinon" height="30" width="42" src="https://avatars.githubusercontent.com/u/6570253?s=280&v=4" /> -->
     </td>
 <!--     DEVOPS -->
