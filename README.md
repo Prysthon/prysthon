@@ -50,7 +50,7 @@
       <br>
       <br>
       <img align="center" alt="ExpressJs" height="30" width="42" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
-      <img align="center" alt="Sequelize" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" />      
+      <img align="center" alt="Sequelize" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" />      
     </td>
 <!--     TESTING -->
     <td>
